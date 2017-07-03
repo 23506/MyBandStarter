@@ -45,7 +45,7 @@ Dit is versie 0.0
 | ------ |------ | ---- | ------ |---- |------ |---- | 
 | 1ste uur | | | | | |  |
 | 2de uur | | | | | |  |
-| 3de uur | | | | | |  |
+| 3de uur | PLANNING|PROTOTYPE |PROTOTYPE | PROTOTYPE|PROTOTYPE |PROTOTYPE|
 | 4de uur | | | | | |  |
 | 5de uur | | | | | |  |
 | 6de uur | | | | | |  |
@@ -55,12 +55,12 @@ Dit is versie 0.0
 ##### WEEK5
 |         | ma 12/6 | di 13/6 | wo 14/6 | do 15/6 | vr 16/6 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur | | | | | |  |
-| 3de uur | | | | | |  |
-| 4de uur | | | | | |  |
-| 5de uur | | | | | |  |
-| 6de uur | | | | | |  |
+| 1ste uur | CODEREN|CODEREN | CODEREN|CODEREN |CODEREN | CODEREN |
+| 2de uur | PROTOTYPE|PROTOTYPE |PROTOTYPE | PROTOTYPE|PROTOTYPE |PROTOTYPE|
+| 3de uur |TESTEN|TESTEN |TESTEN |TESTEN |TESTEN |TESTEN  |
+| 4de uur | PROTOTYPE|PROTOTYPE |PROTOTYPE | PROTOTYPE|PROTOTYPE |PROTOTYPE|
+| 5de uur| CODEREN|CODEREN | CODEREN|CODEREN |CODEREN | CODEREN |
+| 6de uur | CODEREN|CODEREN | CODEREN|CODEREN |CODEREN | CODEREN |
 | 7de uur | | | | | |  |
 | 8de uur | | | | | |  |
 
